@@ -1,4 +1,4 @@
-module github.com/wujunwei928/parse-video
+module github.com/wade30822/parse-video
 
 go 1.17
 
